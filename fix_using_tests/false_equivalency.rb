@@ -16,6 +16,7 @@ def selection(num)
   elsif num = 1
      "HAM HAM HAM IN MY TUMMY"
   end
+  pry.bind
 end
 
 def runner
